@@ -1,6 +1,5 @@
-scrapy 新增命令 `scrapy spiders_info`
-scrapyd 新增接口 get 
-curl http://123.45.67.89:6800/spidersinfo.json?project=youtube
+### scrapy 新增命令 `scrapy spiders_info`
+### scrapyd 新增接口 get curl http://123.45.67.89:6800/spidersinfo.json?project=youtube
 ```
 scrapy spiders_info 
 
